@@ -1,4 +1,0 @@
-#!/bin/sh -
-
-# Rebuild an overlay-ed directory
-# Or turn an overlay-ed directroy into orignal state
