@@ -51,7 +51,6 @@ OVERC_EXTRA_EXTENDED = "\
      formfactor \
      fuser \
      pm-utils \
-     polkit \
      sysstat \
      tcf-agent \
      tzdata \
