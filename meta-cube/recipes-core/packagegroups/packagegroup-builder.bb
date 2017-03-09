@@ -182,7 +182,6 @@ RDEPENDS_packagegroup-builder-extended = "\
     xinetd \
     zip \
     zlib \
-    xterm \
     xz \
     "
 
