@@ -48,7 +48,6 @@ OVERC_COMMON_EXTENDED = " \
 
 OVERC_EXTRA_EXTENDED = "\
      cronie \
-     flac \
      formfactor \
      fuser \
      pm-utils \
