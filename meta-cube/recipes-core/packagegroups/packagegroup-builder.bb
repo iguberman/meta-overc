@@ -193,12 +193,3 @@ RDEPENDS_packagegroup-builder-networking = "\
     msmtp \
     "
 
-RDEPENDS_packagegroup-builder-graphics = "\
-    libgl \
-    libgl-dev \
-    libglu \
-    libglu-dev \
-    libsdl \
-    libsdl-dev \
-    libx11-dev \
-    "
