@@ -72,8 +72,6 @@ OVERC_COMMON_NETWORKING = "\
     "
 
 OVERC_EXTRA_NETWORKING = "\
-     avahi-daemon \
-     avahi-utils \
      ca-certificates \
      ethtool \
      tcp-wrappers \
